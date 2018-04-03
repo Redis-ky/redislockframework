@@ -1,7 +1,9 @@
 # redisframework
 a demo that shows how to implement a 'second kill' using redis distributed lock.
+
 【基于redis分布式锁实现“秒杀”】
 原文链接：https://blog.csdn.net/u010359884/article/details/50310387
+
 最近在项目中遇到了类似“秒杀”的业务场景，在本篇博客中，我将用一个非常简单的demo，阐述实现所谓“秒杀”的基本思路。
 
 业务场景
